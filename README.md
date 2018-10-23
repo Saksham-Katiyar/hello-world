@@ -1,3 +1,2 @@
-# hello-world
-Sample repository
-Hello!! I am new to GitHub and trying to figure out the environment here.
+\" Hello Sugar Labs\"
+I am Saksham Katiyar and this is my first task of Google Code-In.
